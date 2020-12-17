@@ -6,7 +6,7 @@
 **⁓ Designed with ♥ in Germany ⁓**<br><br>
 ![TzorriMahm](https://github.com/TzorriMahm/N64_RGB_Amp/blob/master/img_n64/tzorri_logo.png)
 # Where to get the PCB?
-You can order the PCB directly from [OSHPark](https://oshpark.com/shared_projects/LTxMfbEd).
+You can order the PCB directly from [OSHPark](https://oshpark.com/shared_projects/cdlxvTEA).
 Of course, feel free to use the gerber files with any manufacturer of your choice.<br>
 Use 0.8mm board thickness to ensure an easy and clean installation.
 

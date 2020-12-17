@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Nintendo_MultiAV
+D Nintendo's MultiAV Connector; made by TzorriMahm
+$ENDCMP
+#
+$CMP THS7374IPWR
+D 4-Channel SDTV Video Amplifier; made by TzorriMahm
+F https://www.ti.com/lit/ds/symlink/ths7374.pdf
+$ENDCMP
+#
+#End Doc Library

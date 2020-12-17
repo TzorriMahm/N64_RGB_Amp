@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name n64_rgb_amp)(type KiCad)(uri ${KIPRJMOD}/n64_rgb_amp.pretty)(options "")(descr "Footprints for the 'SNES RGB BYPASS AMP' project by TzorriMahm"))
+)

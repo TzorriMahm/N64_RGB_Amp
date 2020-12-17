@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name n64_rgb_amp)(type Legacy)(uri ${KIPRJMOD}/n64_rgb_amp.lib)(options "")(descr "Symbols for the 'N64 RGB AMP' project by TzorriMahm"))
-)
